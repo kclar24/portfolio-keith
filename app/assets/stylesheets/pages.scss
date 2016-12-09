@@ -1,0 +1,55 @@
+// Place all the styles related to the pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.page-header {
+  font-size: 5vw;
+  font-style: italic;
+  font-family: "Trebuchet MS", Helvetica, sans-serif;
+}
+
+.pull-page {
+  color: rgb(255, 255, 255);
+  margin-left: 20vw;
+  margin-right: 20vw;
+}
+
+#keith {
+  margin-top: 10vh;
+  margin-left: 5vw;
+  font-size: 3vw;
+}
+
+.info-right {
+  align: right;
+  margin-left: 10vw;
+}
+
+.info-left {
+  margin-right: 10vw;
+}
+
+ #me-pic {
+  width: 40vw;
+	border: 1px solid #999;
+	background-color: #fcfcfc;
+	padding: 4px;
+ }
+
+#home-header {
+  font-size: 15vh;
+  margin-top: 10vh;
+}
+
+#about-sub-header {
+  font-size: 1.5vw;
+}
+
+#resume {
+  width: 50vw;
+}
+
+#projects-list{
+  list-style: none;
+  font-size: 1.5vw;
+}
